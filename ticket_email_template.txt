@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Ticket - British Falcon Races 2020 at Vowley</title>
+</head>
+<body>
+<div class="header"><a href="https://vowley.com" target="_blank"><img src="" class="header-logo"/><span class="vowley-racing-text">Vowley Racing</span></a>
+<p class="subject">British Falcon Races 2020</p></div>
+<div class="body-text">
+<p>Thank you for your recent booking.<br/>
+Below is your ticket confirmation. If you have any questions about your booking, you can email the event organiser directly at <a href="mailto:events@vowley.com">events@vowley.com</a>
+
+Booking Summary
+
+Name of guest: ###PREFIX### ###FIRST### ###LAST###
+
+Lunch: if lunch was selected – include the dates for lunch here (incl dietary requirements) 
+
+BBQ on Saturday 26th September: If BBQ is selected – include here (incl details on any dietary requirements)
+
+Falcon information: If falcons were selected include the number of falcons total AND number of falcons entered into Flat Race / Number of falcons entered into Hunt Race. 
+
+Falcon accommodation: Number of falcons total. The days selected.	
+
+-------------------------------- Repeat for multiple attendees --------------------------------
+
+
+You have been charged a total of: £ XXX
+
+<p>
+Best Wishes<br/>
+Vowley Racing
+</p>
+
+<span class="vowley-racing-text">Vowley Farm | Bincknoll | Royal Wootton Bassett | Wiltshire | SN4 8QR</span>
+
+<p>Google maps of our location:
+https://vowley.com/map
+</p>
+</div>
+</body>
+</html>
