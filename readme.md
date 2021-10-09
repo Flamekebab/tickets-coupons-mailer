@@ -1,9 +1,9 @@
-This is a collection of things I wrote for Vowley Races in 2020. It's not actually the complete collection as there's also a coupon creator for the Wingbeat website. I'd include it but it's written in PHP and I'd rather not have multiple languages in the same repo, at least for now!
+This is a collection of things I wrote for Vowley Races in 2020.
 
 #### Broad strokes explanation of what's in here, mainly for my future self:
 The Vowley website had a WordPress-based registration form. People would fill it out to express an interest, I think? If they were planning to compete they'd get sent a coupon for money off a Roprey model from Wingbeat.
 
-The coupon creation wasn't fully automated - instead they'd be created in batches. That's what the PHP script would do - take their data, filter out the relevant entries and then talk to the WooCommerce API to generate coupons. These would then be emailed out.
+The coupon creation wasn't fully automated - instead they'd be created in batches. That's what the PHP script would do - take their data, filter out the relevant entries and then talk to the WooCommerce API to generate coupons. These would then be emailed out. There's also a coupon checker script that checks whether today's coupons are right.
 
 Closer to the event I then put together something that would email out tickets to everyone attending (whether their tickets were paid, complimentary, or provided through another company's hospitality buy). The emails were sent as both plain text and HTML, talking to the company mail server to send them.
 
